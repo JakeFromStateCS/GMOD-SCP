@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"name"				"Demote"
+	"version"			"1"
+	"up_date"			"00/00/00"
+	"info"				"A mod to auto demote people on darkrp"
+	"override"			"0"
+}
